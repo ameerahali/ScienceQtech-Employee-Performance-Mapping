@@ -97,4 +97,5 @@ Write a query to calculate the average salary distribution based on the continen
 - [@ameerahhelayel](https://github.com/ameerahhelayel)
 - [@ameerahali](https://github.com/ameerahali)
 - [@AlwaleedAlkhdairi](https://github.com/AlwaleedAlkhdairi/)
+- [@SafaAlmahdawi](https://github.com/SafaAlmahdawi)
 
